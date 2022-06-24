@@ -1,7 +1,7 @@
 ## Welcome to My Personal Website
 
 
-Hey there, I'm Emre Guner. Thank you for visiting my website. Here, you can find informations about me such as who am i, what i do for a living, where do i live etc.
+Hey there, I'm Emre Guner. Thank you for visiting my website. Here, you can find informations about me such as who I am, what i do, where i live etc.
 
 
 
