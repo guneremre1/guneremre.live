@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Website
 
-You can use the [editor on GitHub](https://github.com/guneremre1/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+Hey there, I'm Emre Guner. I'm an experienced internet marketer with years of experience. I'm an expert when it comes to building website with Wordpress. I am also very experienced in Search Engine Optimization (SEO) and social media marketing. I have several big YouTube channels that have over 100K subscribers each. Contact me on for any questions or job offers. 
+. 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
