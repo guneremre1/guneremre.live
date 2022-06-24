@@ -24,7 +24,7 @@ I'm an expert when it comes to building website with Wordpress. I am also very e
 I have made tens of thousands of dollars since I started my internet marketing journey. I have tried multiple ways of income. I have built websites and earned money from ads.
 
 
-After that, I started doing affiliate/cpa marketing. That resulted in much more revenue compared to my previous methods. I started making way more than what I was making. Until now I have made quite a significant amount of money and this is how I currently make my living.
+After that, I started doing affiliate/cpa marketing. That resulted in much more revenue compared to my previous methods. I started making way more than what I was making. I have made a pretty significant amount of money from the Internet so far.
 
 
 
